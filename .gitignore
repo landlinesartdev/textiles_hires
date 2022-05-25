@@ -1,6 +1,6 @@
 
 
-*.jpeg
+#*.jpeg
 *.jpg
 *.mp4
 *.mov
